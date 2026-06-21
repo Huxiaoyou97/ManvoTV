@@ -10,9 +10,9 @@
 &nbsp;
 [![推荐浏览器](https://img.shields.io/badge/推荐浏览器-Chrome-4285F4?style=for-the-badge&logo=googlechrome&logoColor=white)](https://manvo.tv)
 &nbsp;
-![纯网页](https://img.shields.io/badge/纯网页-免安装·免插件-22C55E?style=for-the-badge)
+[![纯网页](https://img.shields.io/badge/纯网页-免安装·免插件-22C55E?style=for-the-badge)](https://manvo.tv)
 &nbsp;
-![免费起步](https://img.shields.io/badge/免费起步-每日签到领算力-F59E0B?style=for-the-badge)
+[![免费起步](https://img.shields.io/badge/免费起步-每日签到领算力-F59E0B?style=for-the-badge)](https://manvo.tv)
 
 <br/>
 
